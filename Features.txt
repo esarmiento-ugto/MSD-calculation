@@ -1,0 +1,1 @@
+Calculo del MSD con espaciamiento logarítmico, todas las trayectorias de la misma longitud
